@@ -1,6 +1,9 @@
 # StudentManagementSystem
 ## Installation
-- Run git clone https://github.com/yasirmusthafapp/StudentManagementSystem.git StudentManagementSystem
+- Clone the repo
+  ```
+  $ git clone https://github.com/yasirmusthafapp/StudentManagementSystem.git StudentManagementSystem
+  ```
 - change directory
   ```
   $ cd StudentManagementSystem

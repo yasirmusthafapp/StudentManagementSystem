@@ -16,7 +16,7 @@
   ```
   $ cp .env.example .env
   ```
-  - Generate appliction key
+- Generate appliction key
   ```
   $ php artisan key:generate
   ```

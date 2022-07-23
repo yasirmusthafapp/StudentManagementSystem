@@ -13,11 +13,11 @@
   ```
   $ cp .env.example .env
   ```
-  -Generate appliction key
+  - Generate appliction key
   ```
   $ php artisan key:generate
   ```
--Create database tables 
+- Create database tables 
   ```
   $ php artisan migrate
   ```
@@ -25,4 +25,4 @@
   ```
   $ php artisan serve
   ```
-  - Run in the browser: [http://localhost:8000](http://localhost:8000)
+- Run in the browser: [http://localhost:8000](http://localhost:8000)

@@ -1,12 +1,12 @@
-# StudentManagementSystem
+# Coding test
 ## Installation
 - Clone the repo
   ```
-  $ git clone https://github.com/yasirmusthafapp/StudentManagementSystem.git StudentManagementSystem
+  $ git clone https://github.com/yasirmusthafapp/emirates.git directory-name
   ```
 - change directory
   ```
-  $ cd StudentManagementSystem
+  $ cd directory-name
   ```
 - Run composer install (install composer beforehand)
   ```
